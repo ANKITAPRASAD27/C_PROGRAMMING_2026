@@ -1,0 +1,90 @@
+Practice Question :
+Q1. Write a C program to check whether a number is positive AND even.
+Example:
+Input: 10
+Output: Number is positive and even
+Q2. Write a C program to check whether a person is eligible to vote using:
+ Age must be 18 or above
+ Use the logical && operator. 
+
+Q3. Write a C program to check whether a number is divisible by 5 AND 10.
+
+Q4. Write a C program to check whether a student has passed both subjects.
+
+Conditions:
+
+ C Programming marks ≥ 40 
+ Mathematics marks ≥ 40 
+
+Q5. Write a C program to check whether a number is between 10 and 50.
+Condition:
+number >= 10 && number <= 50
+
+ Practice Question :
+
+Q6. Write a C program to check whether a number is divisible by 3 OR 5.
+
+Example:
+
+Input: 15
+Output: Number is divisible by 3 or 5
+
+Q7. Write a C program to check whether a person is eligible for a job.
+
+Conditions:
+
+ Age ≥ 18 
+ Age ≤ 35 
+ Qualification should be graduation 
+Use logical operators.
+
+Q8. Write a C program to check whether a student can appear in an examination.
+
+Conditions:
+
+ Attendance ≥ 75% 
+ Internal marks ≥ 40 
+
+Q9. Write a C program to check whether a number is not equal to 10 using the ! operator.
+
+
+ Practice Question :
+
+Q10. Write a C program to check whether a student is not absent.
+Take a variable:
+intabsent;
+If absent = 0, display:
+Student is present
+
+Q11. Write a C program to check whether a number is positive and even OR negative and odd.
+
+Q12. Write a C program to find whether a person is eligible for a senior citizen discount.
+
+Condition:
+Age >= 60
+Also check whether the person has a valid ID:
+id == 1
+Both conditions must be true.
+
+Q13. Write a C program to check whether a student gets a scholarship.
+
+Conditions:
+ Marks ≥ 80 AND
+ Attendance ≥ 75 
+OR
+ Marks ≥ 90 
+
+ Practice Question :
+
+
+Q14. Write a C program to check whether a number is not between 1 and 100.
+
+Q15. ⭐ Challenge Question
+Write a C program to check whether a person is eligible for a driving license.
+
+Conditions:
+
+ Age must be 18 or above
+ Person must have passed the driving test 
+ Person must have a valid ID 
+.
