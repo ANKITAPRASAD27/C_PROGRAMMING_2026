@@ -1,0 +1,68 @@
+ Practice Question :
+
+Q1. A college has 250 students. Which declaration is suitable?
+A) unsigned int students = 250;
+ B) float students = 250;
+ C) char students = 250;
+ D) double students = 250;
+
+Q2. A person's age can never be negative. Which declaration is more appropriate? Which one allows negative values?
+A) unsigned int age = 25;
+B) signed int age = 25;
+C) Both A and B can store 25
+D) float age = 25;
+
+Q3. You need to store the number of people in a large city, around 10 billion. Which type would you consider?
+A) char
+B) short int
+C) int
+D) long long int
+
+ Practice Question :
+
+1.A college roll number is always positive and can go up to 50,000.
+Declare a suitable variable using a type modifier.
+
+2.You need to store a bank balance that may be positive or negative and may contain decimals.
+Which data type would you choose?
+
+3.A country has a population of approximately 1,400,000,000.
+ Write a suitable declaration.
+
+4.A student's marks can be from 0 to 100, with no decimal values.
+
+
+5.Temperature
+Temperature can be:
+-10°C
+25°C
+37.5°C
+ Practice Question :
+
+6.A library has 20,000 books and the number cannot be negative.
+
+7.What is the main difference between:
+
+signed int a;
+unsigned int b;
+
+Explain using an example.
+
+8.#include <stdio.h>
+int main()
+{
+    unsigned char x = 255;
+    x = x + 1;
+
+    printf("%d", x);
+
+    return 0;
+}
+What do you expect?
+
+A) 255
+B) 256
+C) 0
+D) Error
+
+
