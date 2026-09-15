@@ -1,0 +1,119 @@
+ Practice Question :
+
+1.int age = 25;
+Find:
+Data type = ?
+Identifier = ?
+Variable = ?
+Constant = ?
+
+
+2.float salary = 25000.50;  Find all four.
+Data Type → 
+Identifier → 
+Variable → 
+Constant →
+
+3.char grade = 'A';  Find all four.
+
+4.double price = 999.99;  Find all four
+
+5.#define PI 3.14
+Identify:
+Preprocessor directive = ?
+Identifier = ?
+Constant = ?
+ Practice Question :
+
+5.Create a program that stores a student's age in an int variable and prints:
+Student Age = 20
+
+6.Student Marks
+Create a program to store marks:
+
+English = 75
+Computer = 88
+Math = 92
+
+Use appropriate variables and print all three.
+
+7.Student Percentage
+Store: percentage = 85.75
+
+Use an appropriate basic data type and print it with 2 digits after decimal.
+
+Expected output: Percentage = 85.75
+ Practice Question :
+
+6.Character Store the grade 'A' in a variable and print: Grade = A
+
+7.Create variables for:
+
+Name → "Ankita"
+Age → 27
+Percentage → 85.50
+Grade → 'A'
+Which data type will you use for each?
+
+8.College Name
+Define a constant: SVIIT
+
+using #define and print:
+College = SVIIT
+
+
+ Practice Question :
+
+9.Rectangle
+Define constants:
+
+LENGTH = 10
+BREADTH = 5
+
+Calculate and print: Area = 50
+
+Formula: Area = Length × Breadth
+
+10.Circle 
+Define: #define PI 3.14
+
+Create a variable: radius = 5
+
+Calculate: Area = PI × radius × radius
+
+Expected output: Area of Circle = 78.50
+
+11.Temperature ️
+Store today's temperature: 31.5°C
+
+Print:Temperature = 31.50 C
+
+ Practice Question :
+
+12.Product Bill : A shop sells a product for ₹499.50.
+Create:
+price
+quantity
+
+where:
+
+price = 499.50
+quantity = 3
+
+Calculate: Total = price × quantity
+
+Expected:
+Price = 499.50
+Quantity = 3
+Total = 1498.50
+
+13.Employee Information , Write a C program to store:
+
+Employee ID = 101
+Age = 28
+Salary = 35000.75
+Grade = 'A'
+
+Print all information.
+
+
