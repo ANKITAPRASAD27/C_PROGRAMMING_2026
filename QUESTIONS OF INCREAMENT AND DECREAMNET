@@ -1,0 +1,97 @@
+ Practice Question :
+
+1.int a = 5;
+a++;
+printf("%d", a);
+
+2.int a = 10;
+a- -;
+printf("%d", a);
+
+3.int a = 5;
+int b = ++a;
+
+printf("%d %d", a, b);
+
+4.int a = 8;
+int b = a++;
+printf("%d %d", a, b);
+
+5.int x = 10;
+int y = - -x;
+printf("%d %d", x, y);
+ Practice Question :
+
+5.int a = 5;
+int b = 3;
+a++;
+b- -;
+printf("%d %d", a, b);
+
+6.int a = 5;
+int b = a++ + 2;
+printf("%d %d", a, b);
+
+7.int a = 10;
+a- -;
+- -a;
+a++;
+
+printf("%d", a);
+ Practice Question :
+
+Question 1
+[GATE CS] What is the output of the following C code snippet?
+
+#include <stdio.h>
+int main() {
+int a = 5;
+int b = a++ + ++a;
+printf("%d", b);
+return 0;
+};
+
+A.14	B.10	C.11	D.12
+
+Question 2
+[TCS NQT] What will be the output of the following program?
+
+#include <stdio.h>
+int main() {
+int x = 10;
+int y = x-- - --x;
+printf("%d, %d", x, y);
+return 0;
+}
+
+A.9, 1	B.10, 2	C.8, 2	D.8, 0
+
+ Practice Question :
+
+Question 3
+[ISRO Scientist SC] Consider the following C statement sequence. What is printed?
+
+#include <stdio.h>
+int main() {
+int i = 0;
+int j = i++ || ++i;
+printf("%d %d", i, j);
+return 0;
+}
+
+A.1 1	B.2 1	C.2 0	D.1 0
+
+Question 4
+[Infosys Pseudocode] What is the printed output of the code snippet below?
+
+#include <stdio.h>
+int main() {
+int a = 4, b = 3;
+int c = a++ * --b;
+printf("%d %d %d", a, b, c);
+return 0;
+}
+
+A.4 2 8	B.5 3 12	C.5 2 10	D.5 2 8
+
+
