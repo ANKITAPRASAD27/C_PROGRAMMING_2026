@@ -1,0 +1,35 @@
+Question 1. (Set Bit):Which number will you get after setting (1) the 0^th bit of number a = 6(Binary: 0000 0110)?
+
+Question 2. (Clear Bit):Clear (0) the 2nd bit (2^2 position) of number a = 12 (Binary: 0000 1100). What will be the final result in decimal?
+
+Question 3. find out the decimal value?
+a = 9 aur b = 5
+a & b
+a | b
+
+Question 4. find out the decimal value?
+a = 12 aur b = 25
+a & b
+a | b
+
+Question 5. find out the decimal value?
+a = 6 aur b = 4
+a & b
+a | b
+
+Question 6. find the output ?
+int a = 11 ;
+int b = 32 ;
+printf(“%d”,a&b);
+
+Question 7. find the output ?
+int a = 4 ;
+int b = 2 ;
+printf(“%d”,a|b);
+
+Question 8. find out the decimal value?
+a = 1 aur b = 5
+a & b
+a | b
+
+
